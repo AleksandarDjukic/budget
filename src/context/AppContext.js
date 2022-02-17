@@ -21,8 +21,8 @@ const initialState = {
     budget: 2000,
     expenses: [
         {id: 12, name: 'shopping', cost: 40},
-        {id: 13, name: 'viršle', cost: 50},
-        {id: 14, name: 'hrenovke', cost: 80}
+        {id: 13, name: 'transport', cost: 50},
+        {id: 14, name: 'food', cost: 80}
     ]
 }
 
